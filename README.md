@@ -14,4 +14,4 @@
   
   - ÇOMÜ /İstatistik Bölümü
 
-Sunumda kullanılan R.Script dosyasına ulaşmak için **[tıklayınız]()**.
+Sunumda kullanılan dosyaya ulaşmak için **[tıklayınız]()**.
